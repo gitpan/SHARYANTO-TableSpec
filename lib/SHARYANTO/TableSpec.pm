@@ -1,6 +1,6 @@
 package SHARYANTO::TableSpec;
 
-our $VERSION = '1.0.1'; # VERSION
+our $VERSION = '1.0.2'; # VERSION
 
 1;
 # ABSTRACT: Table data specification
@@ -17,7 +17,11 @@ SHARYANTO::TableSpec - Table data specification
 
 =head1 VERSION
 
-version 1.0.1
+version 1.0.2
+
+=head1 RELEASE DATE
+
+2014-04-27
 
 =head1 HOMEPAGE
 
